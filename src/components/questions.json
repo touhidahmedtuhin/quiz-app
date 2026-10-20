@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Which HTML tag is used to define a paragraph?",
+    "options": ["<div>", "<p>", "<span>", "<h1>"],
+    "answer": "<p>"
+  },
+  {
+    "question": "Which CSS property changes text color?",
+    "options": ["font-size", "color", "background-color", "text-align"],
+    "answer": "color"
+  },
+  {
+    "question": "Which keyword declares a variable in JavaScript?",
+    "options": ["var", "int", "string", "declare"],
+    "answer": "var"
+  },
+  {
+    "question": "Which React hook is used for state management?",
+    "options": ["useEffect", "useState", "useRef", "useMemo"],
+    "answer": "useState"
+  }
+]
